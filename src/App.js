@@ -2,6 +2,7 @@ import Navbar from "./components/Navbar";
 import Heading from "./components/Heading";
 import Programs from "./components/Programs";
 import AllCourses from "./components/AllCourses";
+import InquiryBtn from "./components/InquiryBtn";
 
 function App() {
   return  (
@@ -10,6 +11,7 @@ function App() {
       <Heading />
       <Programs />
       <AllCourses />
+      <InquiryBtn />
     </>
   );
 }
