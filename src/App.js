@@ -1,6 +1,7 @@
 import Navbar from "./components/Navbar";
 import Heading from "./components/Heading";
 import Programs from "./components/Programs";
+import AllCourses from "./components/AllCourses";
 
 function App() {
   return  (
@@ -8,6 +9,7 @@ function App() {
       <Navbar />
       <Heading />
       <Programs />
+      <AllCourses />
     </>
   );
 }
