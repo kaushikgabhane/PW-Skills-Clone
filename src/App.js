@@ -1,9 +1,11 @@
 import Navbar from "./components/Navbar";
+import Heading from "./components/Heading";
 
 function App() {
   return  (
     <>
       <Navbar />
+      <Heading />
     </>
   );
 }
