@@ -6,7 +6,7 @@ function Navbar() {
     <>
         <div className="navbar bg-base-100 flex flex-col gap-5 ">
 
-            <div className='mx-24 mt-3 flex gap-12'>
+            <div className='mx-24 mt-3 flex gap-10'>
 
                 <div className='w-[150px] '>
                     <img src='https://pwskills.com/images/PWSkills-main.png' alt='logo-image'></img>

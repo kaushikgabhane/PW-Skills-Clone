@@ -3,6 +3,7 @@ import Heading from "./components/Heading";
 import Programs from "./components/Programs";
 import AllCourses from "./components/AllCourses";
 import InquiryBtn from "./components/InquiryBtn";
+import Cards from "./components/Cards";
 
 function App() {
   return  (
@@ -12,6 +13,16 @@ function App() {
       <Programs />
       <AllCourses />
       <InquiryBtn />
+      <Cards />
+      <Cards />
+      <Cards />
+      <Cards />
+      <Cards />
+      <Cards />
+      <Cards />
+      <Cards />
+      <Cards />
+
     </>
   );
 }
