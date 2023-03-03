@@ -5,6 +5,7 @@ import Highlights from "./Highlights";
 import InquiryBtn from "./InquiryBtn";
 import PopularProg from "./PopularProg";
 import Cards from "./Cards";
+import OurProducts from "./OurProducts";
 
 function App() {
   return  (
@@ -20,7 +21,7 @@ function App() {
         <Cards />
         <Cards />
       </div>
-
+      <OurProducts />
       
 
     </>
