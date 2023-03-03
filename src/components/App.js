@@ -1,7 +1,7 @@
 import Navbar from "./Navbar";
 import Carousel from "./Carousel";
 import Heading from "./Heading";
-import Programs from "./Programs";
+import Highlights from "./Highlights";
 import InquiryBtn from "./InquiryBtn";
 
 function App() {
@@ -10,7 +10,7 @@ function App() {
       <Navbar />
       <Carousel />
       <Heading />
-      <Programs />
+      <Highlights />
       <InquiryBtn />
       
 
