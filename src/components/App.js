@@ -6,6 +6,7 @@ import InquiryBtn from "./InquiryBtn";
 import SectionHeading from "./SectionHeading";
 import Cards from "./Cards";
 import OurProducts from "./OurProducts";
+import Footer from "./Footer";
 
 function App() {
   return  (
@@ -22,6 +23,7 @@ function App() {
         <Cards />
       </div>
       <OurProducts />
+      <Footer />
       
 
     </>
