@@ -17,7 +17,7 @@ function App() {
       <Highlights />
       <InquiryBtn />
       <SectionHeading Heading="Popular Programs" Description="Most in demand and watched by people." />
-      <div className="flex justify-around">
+      <div className="flex justify-around pb-20">
         <Cards />
         <Cards />
         <Cards />

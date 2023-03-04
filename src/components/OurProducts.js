@@ -27,7 +27,7 @@ function OurProducts() {
             </div>
         </div>
 
-        <div className='flex justify-center gap-16'>
+        <div className='flex justify-center gap-16 pb-20'>
             <div className='flex flex-col items-center pr-16  gap-5'>
                 <img src='https://pwskills.com/images/landing-page/products/affilitatePortal-icon.svg' alt='LabIcon' />
                 <h1 className='text-2xl font-semibold'>Become an affiliate</h1>
