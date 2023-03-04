@@ -3,7 +3,7 @@ import Carousel from "./Carousel";
 import Heading from "./Heading";
 import Highlights from "./Highlights";
 import InquiryBtn from "./InquiryBtn";
-import PopularProg from "./PopularProg";
+import SectionHeading from "./SectionHeading";
 import Cards from "./Cards";
 import OurProducts from "./OurProducts";
 
@@ -15,7 +15,7 @@ function App() {
       <Heading />
       <Highlights />
       <InquiryBtn />
-      <PopularProg />
+      <SectionHeading Heading="Popular Programs" Description="Most in demand and watched by people." />
       <div className="flex justify-around">
         <Cards />
         <Cards />
